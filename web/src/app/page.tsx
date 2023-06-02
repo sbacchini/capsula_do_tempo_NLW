@@ -49,7 +49,7 @@ export default function Home() {
 
         {/* Copyright */}
         <div className="text-sm leading-relaxed text-gray-200">
-          Feito com 💜 no NLW da{' '}
+          Feito com 💜 🌈 por Stefano Bacchini, no NLW da{' '}
           <a
             target="_blank"
             rel="noreferrer"
